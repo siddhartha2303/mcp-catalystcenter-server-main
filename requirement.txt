@@ -1,0 +1,1 @@
+catalyst-center-mcp @ git+https://github.com/cisco-en-programmability/catc-mcp-oss.git@release/2.3.7.11
